@@ -1,5 +1,7 @@
 # xv6-project
 
+PNU Operating System Assignment
+
 #### - Setting up Xv6
 
 ##### setting up environments
